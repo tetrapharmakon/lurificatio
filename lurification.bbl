@@ -1,0 +1,155 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{BBD82}
+
+\bibitem[AHS90]{acc}
+J.~Ad{\'a}mek, H.~Herrlich, and G.E. Strecker, \emph{Abstract and concrete
+  categories: the joy of cats}, Pure and Applied Mathematics (New York), John
+  Wiley \& Sons, Inc., New York, 1990. \MR{1051419 (91h:18001)}
+
+\bibitem[Bau89]{Baues1989}
+H.J. Baues, \emph{Algebraic homotopy}, Cambridge Univ. Press, 1989.
+
+\bibitem[BBD82]{BBDPervers}
+A.A. Beilinson, J.~Bernstein, and P.~Deligne, \emph{Faisceaux pervers},
+  Analysis and topology on singular spaces, {I} ({L}uminy, 1981), Ast\'erisque,
+  vol. 100, Soc. Math. France, Paris, 1982, pp.~5--171. \MR{751966 (86g:32015)}
+
+\bibitem[BO01]{bondal2001reconstruction}
+A.I. {Bondal} and D.O. {Orlov}, \emph{Reconstruction of a variety from the
+  derived category and groups of autoequivalences}, Compositio Mathematica
+  \textbf{125} (2001), no.~03, 327--344.
+
+\bibitem[Bor44]{Borges1963}
+J.L. Borges, \emph{Ficciones}, Editorial Sur, Buenos Aires, 1944.
+
+\bibitem[Bor63]{borgesEN}
+\bysame, \emph{Fictions}, Grove Weidenfeld, New York, 1963.
+
+\bibitem[Car10]{Olivia}
+O.~Caramello, \emph{The unification of mathematics via topos theory},
+  \arXivPreprint{1006.3930} (2010), 42.
+
+\bibitem[Del04]{DeA}
+I.~Dell'Ambrogio, \emph{The {S}panier-{W}hitehead category is always
+  triangulated}, Ph.D. thesis, Diplomarbeit an der ETH Z{\"u}rich (2003-04),
+  2004.
+
+\bibitem[DP61]{Dold1961}
+A.~Dold and D.~Puppe, \emph{Homologie nicht-additiver funktoren. anwendungen},
+  Annales de l'institut Fourier \textbf{11} (1961), 201--312 (ger).
+
+\bibitem[Fre64]{freyd1964abelian}
+P.~Freyd, \emph{Abelian categories. {A}n introduction to the theory of
+  functors}, Harper's Series in Modern Mathematics, Harper \& Row, Publishers,
+  New York, 1964. \MR{0166240 (29 \#3517)}
+
+\bibitem[Gen15]{nashphd}
+F.~Genovese, \emph{Quasi-functors as lifts of fourier-mukai functors: the
+  uniqueness problem}, Ph.D. thesis, Università degli studi di Pavia, 2015.
+
+\bibitem[GJ09]{GoJ}
+P.G. Goerss and J.F. Jardine, \emph{Simplicial homotopy theory}, Modern
+  Birkh\"auser Classics, Birkh\"auser Verlag, Basel, 2009, Reprint of the 1999
+  edition [MR1711612]. \MR{2840650}
+
+\bibitem[GM96]{gelfand2013methods}
+S.I. Gelfand and Y.I. Manin, \emph{Methods of homological algebra},
+  Springer-Verlag, Berlin, 1996, Translated from the 1988 Russian original.
+  \MR{1438306 (97j:18001)}
+
+\bibitem[Gro10]{Gro}
+M.~Groth, \emph{A short course on $\infty$-categories},
+  \arXivPreprint{1007.2925} (2010), 77.
+
+\bibitem[Hel68]{shc}
+A.~Heller, \emph{Stable homotopy categories}, Bull. Amer. Math. Soc.
+  \textbf{74} (1968), 28--63. \MR{0224090 (36 \#7137)}
+
+\bibitem[HJ10]{Hol}
+T.~Holm and P.~J{\o}rgensen, \emph{Triangulated categories: definitions,
+  properties, and examples}, Triangulated categories, London Math. Soc. Lecture
+  Note Ser., vol. 375, Cambridge Univ. Press, Cambridge, 2010, pp.~1--51.
+  \MR{2681706 (2012i:18011)}
+
+\bibitem[Hov99]{Hov}
+M.~Hovey, \emph{Model categories}, Mathematical Surveys and Monographs,
+  vol.~63, American Mathematical Society, Providence, RI, 1999. \MR{1650134
+  (99h:55031)}
+
+\bibitem[Hum]{why-call-it-t}
+J.~Humphreys, \emph{What does the $t$ in $t$-category stand for?}, MathOverflow
+  \href{http://mathoverflow.net/q/87623}{comment},
+  URL:http://mathoverflow.net/q/87623 (version: 2012-02-05).
+
+\bibitem[Kan58]{kan1958functors}
+Daniel~M Kan, \emph{Functors involving css complexes}, Transactions of the
+  American Mathematical Society \textbf{87} (1958), no.~2, 330--346.
+
+\bibitem[Kel82]{kelly1982basic}
+{G}.~{M}ax Kelly, \emph{Basic concepts of enriched category theory}, no.~64,
+  CUP Archive, 1982.
+
+\bibitem[KS]{Kashiwara}
+M.~Kashiwara and P.~Schapira, \emph{Sheaves on manifolds}, Grundlehren der
+  Mathematischen Wissenschaften, no. 292, Springer-Verlag, Berlin. \MR{1299726
+  (95g:58222)}
+
+\bibitem[KV88]{KVaisles}
+B.~Keller and D.~Vossieck, \emph{Aisles in derived categories}, Bull. Soc.
+  Math. Belg. S\'er. A \textbf{40} (1988), no.~2, 239--253, Deuxi\`eme Contact
+  Franco-Belge en Alg\`ebre (Faulx-les-Tombes, 1987). \MR{MR976638 (90j:16047)}
+
+\bibitem[Low14]{Low2015}
+Z.L. Low, \emph{Notes on homotopical algebra -- \href{online
+  version}{http://zll22.user.srcf.net/writing/homotopical-algebra/2015-09-19-Main.pdf}},
+  2014.
+
+\bibitem[Lur09]{HTT}
+J.~Lurie, \emph{Higher {T}opos {T}heory}, Annals of Mathematics Studies, vol.
+  170, Princeton University Press, Princeton, NJ, 2009. \MR{2522659
+  (2010j:18001)}
+
+\bibitem[Lur11]{LurieHA}
+\bysame, \emph{Higher algebra}, online version May 18, 2011.
+
+\bibitem[MK07]{maltsiniotis2007k}
+G.~Maltsiniotis and B.~Keller, \emph{La {K}-theorie d'un derivateur
+  triangule.}, Contemporary Mathematics \textbf{431} (2007), 341.
+
+\bibitem[MSS07]{FMS}
+F.~Muro, S.~Schwede, and N.~Strickland, \emph{Triangulated categories without
+  models}, Invent. Math. \textbf{170} (2007), no.~2, 231--241. \MR{2342636
+  (2008g:18016)}
+
+\bibitem[Nee91]{Neeman1991221}
+A.~Neeman, \emph{Some new axioms for triangulated categories}, Journal of
+  Algebra \textbf{139} (1991), no.~1, 221 -- 255.
+
+\bibitem[Nee01]{Nee}
+\bysame, \emph{Triangulated categories}, Ann. of Math. Studies, vol. 148,
+  Princeton University Press, 2001.
+
+\bibitem[Sch10]{Schwede2010}
+S.~Schwede, \emph{Algebraic versus topological triangulated categories},
+  Triangulated categories, London Math. Soc. Lecture Note Ser., vol. 375,
+  Cambridge Univ. Press, Cambridge, 2010, pp.~389--407. \MR{2681714
+  (2012i:18012)}
+
+\bibitem[Tie69]{tierney1969categorical}
+M.~Tierney, \emph{Categorical constructions in stable homotopy theory}.
+
+\bibitem[Ver67]{VerdierDesDes}
+J.L. Verdier, \emph{Des cat\'egories d\'eriv\'ees des cat\'egories
+  ab\'eliennes}, Ph.D. thesis, Universit\'e de Paris, 1967.
+
+\bibitem[Wei99]{Weibel1997history}
+C.~Weibel, \emph{{History of Homological Algebra}}, pp.~797--836, Elsevier,
+  1999.
+
+\end{thebibliography}
